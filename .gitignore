@@ -1,20 +1,24 @@
 ## Folder Ignore
 node_modules/
+bower_components/
 aspnet_client/
 .sass-cache/
 .vs/
 .vscode/
+.idea/
+.idea_modules/
 .log/
 .logs/
-.idea/
 .temp/
 .cache/
 .npm/
+.svn/
 .gradle/
 
+
 ## File Ignore
-.DS_Store
-.ffs_db
+*.DS_Store
+*.tgitconfig
 *.cache
 *.log
 *.bak
@@ -24,6 +28,12 @@ aspnet_client/
 *.cmd
 *.thumb
 *.tmp
+*.map
+*.db
+*.rdb
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 ## Build Ignore
 [Bb]in/
