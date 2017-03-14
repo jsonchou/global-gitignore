@@ -1,4 +1,7 @@
+# .gitignore Collection
+
 ## Folder Ignore
+```javascript
 node_modules/
 aspnet_client/
 .sass-cache/
@@ -11,8 +14,10 @@ aspnet_client/
 .cache/
 .npm/
 .gradle/
+```
 
 ## File Ignore
+```javascript
 .DS_Store
 .ffs_db
 *.cache
@@ -24,8 +29,11 @@ aspnet_client/
 *.cmd
 *.thumb
 *.tmp
+```
 
 ## Build Ignore
+```javascript
 [Bb]in/
 [Dd]ebug/
 [Rr]elease/
+```
