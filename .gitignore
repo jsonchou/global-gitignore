@@ -1,0 +1,31 @@
+## Folder Ignore
+node_modules/
+aspnet_client/
+.sass-cache/
+.vs/
+.vscode/
+.log/
+.logs/
+.idea/
+.temp/
+.cache/
+.npm/
+.gradle/
+
+## File Ignore
+.DS_Store
+.ffs_db
+*.cache
+*.log
+*.bak
+*.sln
+*.suo
+*.user
+*.cmd
+*.thumb
+*.tmp
+
+## Other Ignore
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
