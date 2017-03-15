@@ -35,9 +35,7 @@ aspnet_client/
 *.map
 *.db
 *.rdb
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+*.log*
 ```
 
 ## Build Ignore
